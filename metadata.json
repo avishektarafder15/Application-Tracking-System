@@ -1,0 +1,5 @@
+{
+  "name": "ATS Admin Portal",
+  "description": "An enterprise-grade role-based Applicant Tracking System (ATS) admin portal featuring distinct dashboards for Organization Owners and Product Owners with advanced metrics, moderation, and compliance controls.",
+  "requestFramePermissions": []
+}
